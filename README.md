@@ -13,15 +13,14 @@ In the context of statistical learning, the Information Bottleneck (IB) can be u
 
 We analyze the exact solution for the Gaussian case, and also give a neural-network version that works when you don't know the data distribution in advance, tested on MNIST.
 
-## What's in this repo
+## What is in this repo
 
 - The variational/neural network version, trained and tested on MNIST
 
 ## Requirements
 
-- Python 3.x
+- Python
 - TensorFlow
-- numpy, matplotlib
 
 ## Citation
 
