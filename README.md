@@ -25,13 +25,10 @@ We analyze the exact solution for the Gaussian case, and also give a neural-netw
 
 ## Citation
 
-If you use this code, please cite:
-
-\`\`\`bibtex
 @inproceedings{mahvari2021scalable,
   title={Scalable Vector Gaussian Information Bottleneck},
   author={Mahvari, Mohammad Mahdi and Kobayashi, Mari and Zaidi, Abdellatif},
   booktitle={2021 IEEE International Symposium on Information Theory (ISIT)},
   year={2021}
 }
-\`\`\`
+
